@@ -1,4 +1,4 @@
-# Grafan, Prometheus, Nexus LAB
+# Grafana, Prometheus, Nexus LAB
 
 
 ## Add your files
