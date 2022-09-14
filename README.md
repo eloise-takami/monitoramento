@@ -7,7 +7,6 @@
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
 git remote add origin https://github.com/eloise-takami/monitoramento
 git branch -M main
 git push -uf origin main
