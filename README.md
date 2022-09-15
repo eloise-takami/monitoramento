@@ -37,4 +37,8 @@ git branch name_branch
 git commit -am "first commit"
 git push origin name_branch
 ```
+
+PS: You will not have access to EC2 as there is authentication.
+
+
 Done with ♥ by Eloise
