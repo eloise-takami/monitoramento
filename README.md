@@ -7,7 +7,7 @@ Lab/hands-on proposal on my study of Application Performance Monitoring (APM) to
 
 
 
-## Tools
+## 🚀 Tools
 
 - [ ] [AWS - EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
 - [ ] [Jenkins](https://www.jenkins.io/)
@@ -16,7 +16,7 @@ Lab/hands-on proposal on my study of Application Performance Monitoring (APM) to
 - [ ] [Nexus](https://www.ibm.com/garage/method/practices/deliver/tool_nexus/)
 
 
-## Como usar?
+## 🤔 Como usar?
 
 Access these links that use the public ip of an EC2 and its respective ports
 
@@ -27,7 +27,7 @@ Access these links that use the public ip of an EC2 and its respective ports
 - [ ] [Nexus](http://44.210.15.179:8081/)
 
 ***
-## Improvements
+## 🚀 Improvements
 
 I accept code improvements.
 To do this, request a pull request.
