@@ -1,10 +1,9 @@
 # Grafana, Prometheus, Nexus LAB
 
 
-## Add your files
+## About the project
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Lab/hands-on proposal on my study of Application Performance Monitoring (APM) tools. There is a pipeline to upload a .war file to java on the Nexus (hosted repository of maven2) to monitor it later. Then, with Grafana and Prometehus, metrics are placed to check the Nexus overhead.
 
 ```
 git remote add origin https://github.com/eloise-takami/monitoramento
@@ -14,29 +13,22 @@ git push -uf origin main
 
 ## Tools
 
-- [ ] [AWS - EC2](https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?connType=standard&instanceId=i-00c0b902e26190ac8&osUser=ubuntu&region=us-east-1&sshPort=22#/)
+- [ ] [AWS - EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
+- [ ] [Jenkins](job/eloise/](https://www.jenkins.io/)
+- [ ] [Grafana](https://grafana.com/)
+- [ ] [Prometheus](https://prometheus.io/)
+- [ ] [Nexus](https://www.ibm.com/garage/method/practices/deliver/tool_nexus/)
+
+
+## Como usar?
+
+Access these links that use the public ip of an EC2 and its respective ports
+
+- [ ] [Amazon EC2](https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?connType=standard&instanceId=i-00c0b902e26190ac8&osUser=ubuntu&region=us-east-1&sshPort=22#/)
 - [ ] [Jenkins](http://44.210.15.179:8080/job/eloise/)
 - [ ] [Grafana](http://44.210.15.179:3000/)
 - [ ] [Prometheus](http://44.210.15.179:9090/)
 - [ ] [Nexus](http://44.210.15.179:8081/)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
 ***
 
