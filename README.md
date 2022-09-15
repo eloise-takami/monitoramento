@@ -12,9 +12,13 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
+## Tools
 
-- [ ] [Set up project integrations](https://gitlab.com/leonam.amaro/jenkins-stack-lab/-/settings/integrations)
+- [ ] [AWS - EC2](https://us-east-1.console.aws.amazon.com/ec2-instance-connect/ssh?connType=standard&instanceId=i-00c0b902e26190ac8&osUser=ubuntu&region=us-east-1&sshPort=22#/)
+- [ ] [Jenkins](http://44.210.15.179:8080/job/eloise/)
+- [ ] [Grafana](http://44.210.15.179:3000/)
+- [ ] [Prometheus](http://44.210.15.179:9090/)
+- [ ] [Nexus](http://44.210.15.179:8081/)
 
 ## Collaborate with your team
 
