@@ -10,7 +10,7 @@ Lab/hands-on proposal on my study of Application Performance Monitoring (APM) to
 ## Tools
 
 - [ ] [AWS - EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
-- [ ] [Jenkins](job/eloise/](https://www.jenkins.io/)
+- [ ] [Jenkins](https://www.jenkins.io/)
 - [ ] [Grafana](https://grafana.com/)
 - [ ] [Prometheus](https://prometheus.io/)
 - [ ] [Nexus](https://www.ibm.com/garage/method/practices/deliver/tool_nexus/)
