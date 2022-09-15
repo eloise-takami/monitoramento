@@ -37,3 +37,4 @@ git branch name_branch
 git commit -am "first commit"
 git push origin name_branch
 ```
+Done with ♥ by Eloise
